@@ -1,0 +1,13 @@
+{
+    "name": "Ejercicio 1",
+    "version": "1.0.0",
+    "description": "Este es mi primera tarea de Javascript con Node en OpenBootcamp",
+    "main": "ejercicio1.js",
+    "scripts": {
+      "ejercicio 1": "node ejercicio1.js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Joaquin",
+    "license": "ISC"
+  }
+  
